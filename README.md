@@ -36,4 +36,4 @@ Closes the blinds
 Recursively schedules sunrises/sunsets
 
 ## Future Plans
-I do not plan on supporting this project further, it has met it's goals. 
+I do not plan on supporting this project further, it has met its goals. 
